@@ -2,11 +2,11 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import leaf from "../../Assets/Projects/leaf.png";
-import emotion from "../../Assets/Projects/emotion.png";
-import editor from "../../Assets/Projects/codeEditor.png";
+
+import memorygame from "../../Assets/Projects/memoryGame.png";
+import expensive from "../../Assets/Projects/expensify.png";
+import codeEditor from "../../Assets/Projects/codeEditor.png";
 import chatapp from "../../Assets/Projects/chat_app.jpg";
-import suicide from "../../Assets/Projects/suicide.png";
 import bitsOfCode from "../../Assets/Projects/blog.png";
 
 function Projects() {
@@ -36,7 +36,7 @@ function Projects() {
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
-              title="Bits-0f-C0de"
+              title="Bits-of-Code(my blog)"
               description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
               ghLink="https://github.com/Adhiccup/Bits-of-Code"
               demoLink="https://deploy-blog-url/"
@@ -45,38 +45,39 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={editor}
+              imgPath={codeEditor}
               isBlog={false}
-              title="Editor.io"
+              title="CodeEditor"
               description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
               ghLink="https://github.com/Adhiccup/CodeEditor"
-              demoLink="https://"              
+              // demoLink="https://"              
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={leaf}
+              imgPath={expensive}
               isBlog={false}
-              title="Plant AI"
-              description=""
-              ghLink=""
-              demoLink=""
+              title="Expensify"
+              description="Split bills, request payments, and chat with friends."
+              ghLink="https://github.com/Adhiccup/Expensify"
+              demoLink="https://new.expensify.com/"
             />
           </Col>
+
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={suicide}
+              imgPath={memorygame}
               isBlog={false}
-              title=""
-              description=""
-              ghLink=""
-              demoLink="https://uni-chat.netlify.app/"
+              title="Memory Game"
+              description="take a break"
+              ghLink="https://github.com/Adhiccup/memory-game.git"
+              demoLink="https://webtips.dev/memory-game-in-javascript"
             />
           </Col>
 
-          <Col md={4} className="project-card">
+          {/* <Col md={4} className="project-card">
             <ProjectCard
               imgPath={emotion}
               isBlog={false}
@@ -85,7 +86,7 @@ function Projects() {
               ghLink=""
               demoLink="https://uni-chat.netlify.app/"
             />
-          </Col>
+          </Col> */}
         </Row>
       </Container>
     </Container>
