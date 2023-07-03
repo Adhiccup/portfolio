@@ -24,7 +24,7 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> C++, Python, Javascript and Go. </b>
+                <b className="purple"> C++, Python, Javascript and React, React Native. </b>
               </i>
               <br />
               <br />

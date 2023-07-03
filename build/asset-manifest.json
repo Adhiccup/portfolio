@@ -1,9 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.fe802acb.css",
-    "main.js": "/static/js/main.6875dd8f.js",
+    "main.js": "/static/js/main.b096c690.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/booking_ci.png": "/static/media/booking_ci.64c148a477e2328df87e.png",
     "static/media/expensify.png": "/static/media/expensify.e3af34cc5c97c4b6bc07.png",
+    "static/media/admongd.pdf": "/static/media/admongd.d5e07b1c88b97144e33d.pdf",
     "static/media/memoryGame.png": "/static/media/memoryGame.61d45a01f9ee1add42a9.png",
     "static/media/me.png": "/static/media/me.15091427013bb524d1df.png",
     "static/media/blog.png": "/static/media/blog.fb8ab7f271a937d5fc01.png",
@@ -11,16 +13,15 @@
     "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/codeEditor.png": "/static/media/codeEditor.3f416d5bee2a1ec823fa.png",
     "static/media/chat_app.jpg": "/static/media/chat_app.14a4f2b77720a57a2d00.jpg",
-    "static/media/admongd.pdf": "/static/media/admongd.bfd539c053875aaa4387.pdf",
     "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.fe802acb.css.map": "/static/css/main.fe802acb.css.map",
-    "main.6875dd8f.js.map": "/static/js/main.6875dd8f.js.map",
+    "main.b096c690.js.map": "/static/js/main.b096c690.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fe802acb.css",
-    "static/js/main.6875dd8f.js"
+    "static/js/main.b096c690.js"
   ]
 }
