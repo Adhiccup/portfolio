@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fe802acb.css",
+    "main.js": "/static/js/main.6875dd8f.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/expensify.png": "/static/media/expensify.e3af34cc5c97c4b6bc07.png",
+    "static/media/memoryGame.png": "/static/media/memoryGame.61d45a01f9ee1add42a9.png",
+    "static/media/me.png": "/static/media/me.15091427013bb524d1df.png",
+    "static/media/blog.png": "/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/codeEditor.png": "/static/media/codeEditor.3f416d5bee2a1ec823fa.png",
+    "static/media/chat_app.jpg": "/static/media/chat_app.14a4f2b77720a57a2d00.jpg",
+    "static/media/admongd.pdf": "/static/media/admongd.bfd539c053875aaa4387.pdf",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.fe802acb.css.map": "/static/css/main.fe802acb.css.map",
+    "main.6875dd8f.js.map": "/static/js/main.6875dd8f.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe802acb.css",
+    "static/js/main.6875dd8f.js"
+  ]
+}
