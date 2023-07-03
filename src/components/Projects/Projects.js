@@ -8,6 +8,7 @@ import expensive from "../../Assets/Projects/expensify.png";
 import codeEditor from "../../Assets/Projects/codeEditor.png";
 import chatapp from "../../Assets/Projects/chat_app.jpg";
 import bitsOfCode from "../../Assets/Projects/blog.png";
+import bookingCI from "../../Assets/Projects/booking_ci.png"
 
 function Projects() {
   return (
@@ -77,16 +78,28 @@ function Projects() {
             />
           </Col>
 
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={bookingCI}
+              isBlog={false}
+              title="Corporate Keys"
+              description="BookingSite"
+              ghLink=""
+              demoLink="https://www.corporatekeysaustralia.com.au/"
+            />
+          </Col>
+
           {/* <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={emotion}
+              imgPath={bloging}
               isBlog={false}
-              title=""
-              description=""
+              title="for my blog"
+              description="BookingSite"
               ghLink=""
-              demoLink="https://uni-chat.netlify.app/"
+              demoLink="https://www.corporatekeysaustralia.com.au/"
             />
           </Col> */}
+
         </Row>
       </Container>
     </Container>
