@@ -1,9 +1,9 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://deploy-url" target="_blank">Admong.D</a>
+  <a href="https://portfolio-2de95.web.app" target="_blank">Admong.D</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
+  <img alt="Demo" src="https://user-images.githubusercontent.com/133824278/246354060-e8477bcd-2012-413e-b3cd-005fce937b20.png" />
 </div>
 
 <br/>
@@ -29,7 +29,7 @@ You can fork this repo to modify and make changes of your own. Please give me pr
 
 ## Built With
 
-My personal portfolio <a href="https://deploy-url" target="_blank">Admong.D</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://portfolio-2de95.web.app" target="_blank">Admong.D</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
